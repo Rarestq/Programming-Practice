@@ -38,6 +38,7 @@ public class MorseCodeDecoder {
 
     private static String decodeWord(String morseWord) {
         return Arrays.stream(morseWord.trim().split(CHAR_DELIMITER))
+                // there is no MorseCode class in local, so I just comment it
 //                .map(MorseCode::get)
                 .collect(Collectors.joining());
     }
