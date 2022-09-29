@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a4092a-fc1a-4b97-80a3-d9b023b3a5c6" name="Default Changelist" comment="regex validate pin &amp; Sort the odd solutions">
-      <change afterPath="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/ValidParenthesesSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/BouncingBallSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/codewars/target/" />
@@ -28,26 +28,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MergeTwoListsSolution" value="1" />
-          <entry key="java" value="62" />
+          <entry key="java" value="63" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="63" />
+          <entry key="JAVA" value="64" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3457" />
+          <entry key="java" value="3592" />
           <entry key="txt" value="38" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3457" />
+          <entry key="JAVA" value="3592" />
           <entry key="PLAIN_TEXT" value="38" />
           <entry key="XML" value="5" />
         </counts>
@@ -56,15 +56,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/RegexValidatePINCodeSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/SortTheOddInArraySolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,14 +77,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/ValidParenthesesSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="113" column="45" selection-start-line="113" selection-start-column="45" selection-end-line="113" selection-end-column="45" />
+            <state relative-caret-position="215">
+              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/BouncingBallSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="53" column="21" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="53" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -190,6 +190,7 @@
         <option value="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/SortTheOddInArraySolution.java" />
         <option value="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/SmileFaces.java" />
         <option value="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/ValidParenthesesSolution.java" />
+        <option value="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/BouncingBallSolution.java" />
       </list>
     </option>
   </component>
@@ -356,7 +357,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1664456886304" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1664459734183" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -389,9 +390,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValidParenthesesSolution">
-    <configuration name="EnoughIsEnough" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rarestzhou.codewars.september.EnoughIsEnough" />
+  <component name="RunManager" selected="Application.BouncingBallSolution">
+    <configuration name="BouncingBallSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rarestzhou.codewars.september.BouncingBallSolution" />
       <module name="codewars" />
       <extension name="coverage">
         <pattern>
@@ -482,19 +483,19 @@
       <item itemvalue="Spring Boot.CodewarsApplication" />
       <item itemvalue="Spring Boot.LeetcodesApplication" />
       <item itemvalue="Spring Boot.BookonjavaApplication" />
-      <item itemvalue="Application.EnoughIsEnough" />
       <item itemvalue="Application.RegexValidatePINCodeSolution" />
       <item itemvalue="Application.SortTheOddInArraySolution" />
       <item itemvalue="Application.SmileFaces" />
       <item itemvalue="Application.ValidParenthesesSolution" />
+      <item itemvalue="Application.BouncingBallSolution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BouncingBallSolution" />
         <item itemvalue="Application.ValidParenthesesSolution" />
         <item itemvalue="Application.SmileFaces" />
         <item itemvalue="Application.SortTheOddInArraySolution" />
         <item itemvalue="Application.RegexValidatePINCodeSolution" />
-        <item itemvalue="Application.EnoughIsEnough" />
       </list>
     </recent_temporary>
   </component>
@@ -510,7 +511,7 @@
       <updated>1664349601465</updated>
       <workItem from="1664349603249" duration="8501000" />
       <workItem from="1664377158574" duration="12000" />
-      <workItem from="1664438744344" duration="5515000" />
+      <workItem from="1664438744344" duration="6552000" />
     </task>
     <task id="LOCAL-00001" summary="regex validate pin &amp; Sort the odd solutions">
       <created>1664440931984</created>
@@ -523,13 +524,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14028000" />
+    <option name="totallyTimeSpent" value="15065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -538,13 +539,13 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28082192" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28082192" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49919224" weight="0.31506848" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49919224" visible="true" weight="0.31506848" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50080776" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
@@ -608,13 +609,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bookonjava/src/main/java/com/rarestzhou/bookonjava/basic/coffee/Americano.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bookonjava/src/main/java/com/rarestzhou/bookonjava/advance/references/AddingClone.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -834,11 +828,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/ValidParenthesesSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="113" column="45" selection-start-line="113" selection-start-column="45" selection-end-line="113" selection-end-column="45" />
+        <state relative-caret-position="215">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/BouncingBallSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="53" selection-end-column="21" />
         </state>
       </provider>
     </entry>
