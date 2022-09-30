@@ -41,7 +41,6 @@ public class StringOrderByNumberSolution {
             }
         }
         return result.toString().trim();
-
     }
 
     public static String orderCleverVersion(String words) {
