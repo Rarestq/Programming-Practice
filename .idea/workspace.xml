@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a4092a-fc1a-4b97-80a3-d9b023b3a5c6" name="Default Changelist" comment="regex validate pin &amp; Sort the odd solutions">
-      <change afterPath="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/TortoiseRacingSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/october/BrainLuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/StringOrderByNumberSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/StringOrderByNumberSolution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/codewars/target/" />
     <ignored path="$PROJECT_DIR$/leetcodes/target/" />
@@ -30,26 +29,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MergeTwoListsSolution" value="1" />
-          <entry key="java" value="73" />
+          <entry key="java" value="76" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="74" />
+          <entry key="JAVA" value="77" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4712" />
+          <entry key="java" value="6576" />
           <entry key="txt" value="38" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4712" />
+          <entry key="JAVA" value="6576" />
           <entry key="PLAIN_TEXT" value="38" />
           <entry key="XML" value="5" />
         </counts>
@@ -59,28 +58,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/ASum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/ArrayDiff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/StringOrderByNumberSolution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="186">
-              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,18 +69,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/TortoiseRacingSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="52" column="79" selection-start-line="52" selection-start-column="79" selection-end-line="52" selection-end-column="79" />
+            <state relative-caret-position="275">
+              <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/october/BrainLuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="597">
+              <caret line="241" column="81" selection-start-line="241" selection-start-column="81" selection-end-line="241" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="799" column="13" selection-start-line="799" selection-start-column="13" selection-end-line="799" selection-end-column="13" />
+              <folding>
+                <element signature="e#8248#8249#0" expanded="true" />
+                <element signature="e#8275#8276#0" expanded="true" />
+                <element signature="e#23699#23700#0" expanded="true" />
+                <element signature="e#23735#23736#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/CharSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="129" column="29" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="29" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -187,6 +199,7 @@
         <option value="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/MorseCodeDecoder.java" />
         <option value="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/StringOrderByNumberSolution.java" />
         <option value="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/TortoiseRacingSolution.java" />
+        <option value="$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/october/BrainLuck.java" />
       </list>
     </option>
   </component>
@@ -271,6 +284,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="october" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programming-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programming-Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
               <item name="september" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -336,6 +359,14 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programming-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -363,7 +394,7 @@
     <property name="SearchEverywhereHistoryKey" value="t&#9;ACTION&#9;ActivateTODOToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1664550782844" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1664810051857" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -396,7 +427,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TortoiseRacingSolution">
+  <component name="RunManager" selected="Application.BrainLuck">
     <configuration name="BouncingBallSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rarestzhou.codewars.september.BouncingBallSolution" />
       <module name="codewars" />
@@ -410,12 +441,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmileFaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rarestzhou.codewars.september.SmileFaces" />
+    <configuration name="BrainLuck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rarestzhou.codewars.october.BrainLuck" />
       <module name="codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rarestzhou.codewars.september.*" />
+          <option name="PATTERN" value="com.rarestzhou.codewars.october.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -489,19 +520,19 @@
       <item itemvalue="Spring Boot.CodewarsApplication" />
       <item itemvalue="Spring Boot.LeetcodesApplication" />
       <item itemvalue="Spring Boot.BookonjavaApplication" />
-      <item itemvalue="Application.SmileFaces" />
       <item itemvalue="Application.ValidParenthesesSolution" />
       <item itemvalue="Application.BouncingBallSolution" />
       <item itemvalue="Application.StringOrderByNumberSolution" />
       <item itemvalue="Application.TortoiseRacingSolution" />
+      <item itemvalue="Application.BrainLuck" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BrainLuck" />
         <item itemvalue="Application.TortoiseRacingSolution" />
         <item itemvalue="Application.StringOrderByNumberSolution" />
         <item itemvalue="Application.BouncingBallSolution" />
         <item itemvalue="Application.ValidParenthesesSolution" />
-        <item itemvalue="Application.SmileFaces" />
       </list>
     </recent_temporary>
   </component>
@@ -518,7 +549,7 @@
       <workItem from="1664349603249" duration="8501000" />
       <workItem from="1664377158574" duration="12000" />
       <workItem from="1664438744344" duration="10638000" />
-      <workItem from="1664548910575" duration="1288000" />
+      <workItem from="1664548910575" duration="6908000" />
     </task>
     <task id="LOCAL-00001" summary="regex validate pin &amp; Sort the odd solutions">
       <created>1664440931984</created>
@@ -531,7 +562,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20439000" />
+    <option name="totallyTimeSpent" value="26059000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -630,12 +661,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bookonjava/src/main/java/com/rarestzhou/bookonjava/advance/references/TemperatureReading.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bookonjava/src/main/java/com/rarestzhou/bookonjava/advance/references/CheckCloneable.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/bookonjava/src/main/java/com/rarestzhou/bookonjava/advance/Timer.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -740,13 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10710">
-          <caret line="671" column="13" selection-start-line="671" selection-start-column="13" selection-end-line="671" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -881,7 +899,7 @@
     <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/StringOrderByNumberSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
-          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -890,8 +908,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/september/TortoiseRacingSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="52" column="79" selection-start-line="52" selection-start-column="79" selection-end-line="52" selection-end-column="79" />
+        <state relative-caret-position="275">
+          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/CharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="129" column="29" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="799" column="13" selection-start-line="799" selection-start-column="13" selection-end-line="799" selection-end-column="13" />
+          <folding>
+            <element signature="e#8248#8249#0" expanded="true" />
+            <element signature="e#8275#8276#0" expanded="true" />
+            <element signature="e#23699#23700#0" expanded="true" />
+            <element signature="e#23735#23736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/src/main/java/com/rarestzhou/codewars/october/BrainLuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="241" column="81" selection-start-line="241" selection-start-column="81" selection-end-line="241" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
