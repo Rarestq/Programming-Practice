@@ -1,7 +1,8 @@
 package com.rarestzhou.bookonjava.basic.strings;
 
-import com.rarestzhou.leetcode_solutions.bookonjavabasic.generics.coffee.Coffee;
-import com.rarestzhou.leetcode_solutions.bookonjavabasic.generics.coffee.CoffeeSupplier;
+
+import com.rarestzhou.bookonjava.basic.coffee.Coffee;
+import com.rarestzhou.bookonjava.basic.coffee.CoffeeSupplier;
 
 import java.util.List;
 import java.util.stream.Collectors;

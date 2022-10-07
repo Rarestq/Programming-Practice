@@ -1,6 +1,7 @@
 package com.rarestzhou.bookonjava.advance.references;
 
-import com.rarestzhou.leetcode_solutions.bookonjavaadvance.Timer;
+
+import com.rarestzhou.bookonjava.advance.Timer;
 
 import java.io.*;
 
