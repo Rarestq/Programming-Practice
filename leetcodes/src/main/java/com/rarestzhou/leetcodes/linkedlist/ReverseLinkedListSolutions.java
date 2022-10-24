@@ -19,7 +19,7 @@ package com.rarestzhou.leetcodes.linkedlist;
 public class ReverseLinkedListSolutions {
 
     /**
-     * 方法一：双指针迭代
+     * 方法一：迭代
      *
      * 时间复杂度：O(N)
      * 空间复杂度：O(1)
@@ -28,19 +28,27 @@ public class ReverseLinkedListSolutions {
      * @return
      */
     public ListNode reverseList(ListNode head) {
+        // 前一个节点
         ListNode prev = null;
+        // 当前遍历到的节点
         ListNode cur = head;
+        // 反转后链表的头节点
+        ListNode reversedHead = null;
         while (cur != null) {
-            // 注：在 cur 指向 pre 之前一定要先保留 cur 的后继结点，不然如果 cur 先指向 pre，之后就再也找不到后继结点了
+            // 注：在cur指向 pre 之前一定要先保留 cur 的后继结点，不然如果 cur 先指向 pre，之后就再也找不到后继结点了
             // 记录当前节点的下一个节点
             ListNode next = cur.next;
+            if (next == null) {
+                // 下一个节点为 null，说明当前节点是尾节点（原始链表），即新链表的头节点
+                reversedHead = cur;
+            }
             // 然后将当前节点指向 prev
             cur.next = prev;
             // prev 和 cur 节点都前进一位
             prev = cur;
             cur = next;
         }
-        return prev;
+        return reversedHead;
     }
 
     /**
